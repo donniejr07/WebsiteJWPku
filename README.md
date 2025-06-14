@@ -36,9 +36,9 @@ WebsiteJWPku adalah solusi untuk memudahkan Anda dalam membangun website. Kami m
 - **Framework**:
     - Laravel 12.18.0
     - Bootstrap 5.3.2
+    - Fontawesome 6.4.0
 - **Language**: PHP 8.3.12
 - **Database**: MySQL 8.0.35
-- **Deployment**: Railway
 
 ## 👨‍💻 Developer
 
